@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='android.content.ContentResolver android.database.Cursor query(android.net.Uri, java.lang.String[], java.lang.String, java.lang.String[], java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.Nullable' />
+    </item>
+</root>

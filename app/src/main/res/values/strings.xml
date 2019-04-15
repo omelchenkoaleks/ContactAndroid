@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactAndroid</string>
+    <string name="send_contact_btn">send Contact</string>
+</resources>
